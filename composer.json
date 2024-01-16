@@ -1,0 +1,16 @@
+{
+    "name": "consistent/hash",
+    "description": "分hash,用作灰度",
+    "autoload": {
+        "psr-4": {
+            "Consistent\\Hash\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "diao",
+            "email": "794863612@qq.com"
+        }
+    ],
+    "require": {}
+}
